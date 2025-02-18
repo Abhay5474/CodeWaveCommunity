@@ -1,0 +1,19 @@
+How to Use this project (codewavecommunity)
+
+Required Softwares:
+1. XAMPP
+
+step1: 1st open phpmyadmin through XAMPP.
+step2: create databases according to Database file names in Database folder.
+step3: Import databases from Database folder.
+
+You will now have these databases..
+
+Remember, Paste all these files in htdocs folder ( paste this codewavecommunity folder in htdocs) otherwise it'll not work
+
+
+1. Open any browser i.e. Chrome and type the following in search bar:  http://localhost/codewavecommunity/index.html
+
+2. it'll direct you to index page of our project.
+
+3. All done. now you can register account and can go on....
